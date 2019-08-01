@@ -1,0 +1,11 @@
+C:\Users\TNadarajX0103010\source\repos\SAPconnector\SAPconnector\bin\Debug\SAPconnector.exe.config
+C:\Users\TNadarajX0103010\source\repos\SAPconnector\SAPconnector\bin\Debug\SAPconnector.exe
+C:\Users\TNadarajX0103010\source\repos\SAPconnector\SAPconnector\bin\Debug\SAPconnector.pdb
+C:\Users\TNadarajX0103010\source\repos\SAPconnector\SAPconnector\bin\Debug\sapnco.dll
+C:\Users\TNadarajX0103010\source\repos\SAPconnector\SAPconnector\bin\Debug\sapnco_utils.dll
+C:\Users\TNadarajX0103010\source\repos\SAPconnector\SAPconnector\obj\Debug\SAPconnector.csprojAssemblyReference.cache
+C:\Users\TNadarajX0103010\source\repos\SAPconnector\SAPconnector\obj\Debug\SAPconnector.csproj.CoreCompileInputs.cache
+C:\Users\TNadarajX0103010\source\repos\SAPconnector\SAPconnector\obj\Debug\SAPconnector.csproj.CopyComplete
+C:\Users\TNadarajX0103010\source\repos\SAPconnector\SAPconnector\obj\Debug\SAPconnector.exe
+C:\Users\TNadarajX0103010\source\repos\SAPconnector\SAPconnector\obj\Debug\SAPconnector.pdb
+C:\Users\TNadarajX0103010\source\repos\SAPconnector\SAPconnector\bin\Debug\SAPRFC.dll

@@ -1,0 +1,10 @@
+C:\Users\TNadarajX0103010\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\TNadarajX0103010\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\TNadarajX0103010\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\TNadarajX0103010\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\sapnco.dll
+C:\Users\TNadarajX0103010\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\sapnco_utils.dll
+C:\Users\TNadarajX0103010\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\SAPRFC.dll
+C:\Users\TNadarajX0103010\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\TNadarajX0103010\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\TNadarajX0103010\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\TNadarajX0103010\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

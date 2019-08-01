@@ -1,0 +1,22 @@
+**** Trace file opened at 2019-04-12 16:28:27+05:30 (India Standard Time)
+	SAP .NET Connector: 3, 0, 1, 0, Working directory: C:\Users\TNadarajX0103010\source\repos\SAPconnector\SAPconnector\bin\Debug, Program: C:\Users\TNadarajX0103010\source\repos\SAPconnector\SAPconnector\bin\Debug\SAPconnector.exe
+	Hardware: PC with Windows NT, Processor: 4x AMD64 Level 6 (Mod 142 Step 9), Operating system: Microsoft Windows NT 6.2.9200.0, .NET CLR version: 4.0.30319.42000
+ 	SAP release: 720, Kernel release: 720, Kernel patch level: 78
+	Hostname: 20HES0JPF12667M, IP address: 10.208.70.43, IP_v6 address: 
+
+	Default trace level: None
+
+>> Error entry 2019-04-12 16:28:27.373
+SAP.Middleware.Connector.RfcInvalidStateException: No DestinationConfiguration defined
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+**** Trace file opened at 2019-04-12 16:28:57+05:30 (India Standard Time)
+	SAP .NET Connector: 3, 0, 1, 0, Working directory: C:\Users\TNadarajX0103010\source\repos\SAPconnector\SAPconnector\bin\Debug, Program: C:\Users\TNadarajX0103010\source\repos\SAPconnector\SAPconnector\bin\Debug\SAPconnector.exe
+	Hardware: PC with Windows NT, Processor: 4x AMD64 Level 6 (Mod 142 Step 9), Operating system: Microsoft Windows NT 6.2.9200.0, .NET CLR version: 4.0.30319.42000
+ 	SAP release: 720, Kernel release: 720, Kernel patch level: 78
+	Hostname: 20HES0JPF12667M, IP address: 10.208.70.43, IP_v6 address: 
+
+	Default trace level: None
+
+>> Error entry 2019-04-12 16:28:57.603
+SAP.Middleware.Connector.RfcInvalidStateException: No DestinationConfiguration defined
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
