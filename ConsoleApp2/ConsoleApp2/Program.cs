@@ -20,7 +20,12 @@ namespace ConsoleApp2
             //exportSQLdataToExcel();
           // p.deletelistitmsbycondition();
          //   onSAFTaskComplete.TaskOutcome = CompleteTaskStatus;
-             p.insertistems();
+          //  p.insertistems();
+            printhelloworld();
+        }
+        private void printhelloworld()
+        {
+                    Console.WriteLine("Hello World");
         }
         private void exportSQLdataToExcel()
         {
