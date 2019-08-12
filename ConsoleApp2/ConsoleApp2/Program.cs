@@ -21,7 +21,7 @@ namespace ConsoleApp2
           // p.deletelistitmsbycondition();
          //   onSAFTaskComplete.TaskOutcome = CompleteTaskStatus;
           //  p.insertistems();
-            printhelloworld();
+            p.printhelloworld();
         }
         private void printhelloworld()
         {
